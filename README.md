@@ -27,8 +27,3 @@ If you have multiple cameras or need to flip it:
 python hand_dj_cursor.py --camera 1
 python hand_dj_cursor.py --flip-camera
 ```
-
-## Requirements
-
-- Python 3.9+
-- A webcam
