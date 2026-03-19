@@ -1,10 +1,10 @@
-# DJ on Hard Mode
+# Virtual DJ 🎧✋
 
-Virtual DJ controller you control with your hands. No hardware, just a webcam. The long-term idea is to project a DDJ-FLX4 layout onto a desk with a laser projector and use a camera to track your hands on it — but right now we're just getting the hand tracking solid first.
+Virtual DJ controller you control with your hands. No hardware, just a webcam. The long-term idea is to project a DDJ-FLX4 layout onto a desk with a laser projector and use a camera to track your hands on it — but right now we're just getting the hand tracking solid first. Honestly this all stemmed from me just wanting a weekend project to vibe out some cool hand tracking stuff. Turns out.. its quite hard.
 
 ## How it works
 
-Your hands show up as two cursors on screen. Pinch your fingers together to grab whatever the cursor is hovering over, then:
+Your hands are tracked to 2 cursors on the screen allowing you to interact with a virtual board. Pinch your fingers together to grab whatever the cursor is hovering over, then:
 
 - **Rotate your wrist** → spins the jogwheel or turns the knob
 - **Move your hand up/down** → slides a fader
